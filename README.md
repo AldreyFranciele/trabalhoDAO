@@ -1,5 +1,5 @@
 # Projeto CRUD em Java (Cliente + Usuário)
-# Autor: Aldrey Franciele ツ
+# ☺ Autor: Aldrey Franciele 
 
 Este projeto é um exemplo didático de aplicação **Java Desktop (Swing)** com **2 CRUDs**:
 - **Usuário** (com autenticação via BCrypt)
